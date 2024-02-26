@@ -1,0 +1,8 @@
+{
+    "helloWorld": "¡Hola Mundo!",
+    "desc": "¿Alguna vez has considerado cómo las principales aplicaciones como YouTube, Netflix e Instagram obtuvieron su enorme base de usuarios a nivel mundial? La respuesta radica en sus capacidades multilingües. En el mundo interconectado de hoy, llegar a una audiencia global es crucial para el éxito de una aplicación. Ya sea un juego, una herramienta de productividad o una plataforma de comercio electrónico, hacer que tu aplicación sea accesible para diversos grupos lingüísticos es fundamental. Las características multilingües no solo personalizan la experiencia del usuario, sino que también impulsan el compromiso y las conversiones. Para lograr el éxito global, integrar características multilingües es esencial. En Flutter, la localización y la internacionalización son técnicas efectivas para construir aplicaciones multilingües. Estos métodos permiten a los desarrolladores admitir diversos idiomas, mejorando la conexión y el compromiso del usuario.",
+    "english": "Inglés",
+    "spanish": "Español",
+    "steps": "pasos",
+    "title": "Construyendo una Aplicación Multilingüe en Flutter utilizando la localización en español"
+}

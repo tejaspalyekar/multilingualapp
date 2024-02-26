@@ -1,0 +1,8 @@
+{
+  "helloWorld": "Hello World!",
+  "desc": "Have you ever considered how top apps like YouTube, Netflix, and Instagram gained their massive global user base? The answer lies in their multilingual capabilities.\n In today's interconnected world, reaching a global audience is crucial for app success. Whether it's a game, productivity tool, or e-commerce platform, making your app accessible to diverse linguistic backgrounds is key.\n Multilingual features not only personalize user experience but also drive engagement and conversions.\n To achieve global success, integrating multilingual features is essential. In Flutter, Localization and Internationalization are effective techniques for building multilingual apps.\n These methods empower developers to support diverse languages, enhancing user connection and engagement",
+  "english": "English",
+  "spanish": "Spanish",
+  "steps": "Steps",
+  "title": "Building Multilingual Flutter App using flutter localization"
+}
